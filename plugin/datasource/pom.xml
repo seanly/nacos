@@ -34,6 +34,10 @@
             <artifactId>nacos-common</artifactId>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba.nacos.plugin</groupId>
+            <artifactId>nacos-datasource-plugin-kingbase8</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

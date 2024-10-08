@@ -906,7 +906,11 @@
                 <artifactId>mysql-connector-j</artifactId>
                 <version>${mysql-connector-java.version}</version>
             </dependency>
-            
+            <dependency>
+                <groupId>com.alibaba.nacos.plugin</groupId>
+                <artifactId>nacos-datasource-plugin-kingbase8</artifactId>
+                <version>0.0.1</version>
+            </dependency>
             <dependency>
                 <groupId>org.apache.derby</groupId>
                 <artifactId>derby</artifactId>
